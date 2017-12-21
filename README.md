@@ -1,0 +1,2 @@
+# Pharo3DarkTransluscentTheme
+Transluscent variant of Pharo3DarkTheme
